@@ -33,7 +33,7 @@ const Footer = () => {
         <li>Corporate Information</li>
         <li>Contact Us</li>
       </ul>
-      <p className="copyright-text" onClick={RedirectToDevSite}>© For More Click Here Contact - Bharath Gourishetty.</p>
+      <p className="copyright-text" onClick={RedirectToDevSite}>© For More Click Here to Contact - Bharath Gourishetty.</p>
     </div>
   )
 }
